@@ -72,4 +72,4 @@ Investment Base: R10,000 (or $10,000 equivalent)
 ![Risk vs Return](risk_return.png)
 
 ### Portfolio Drawdowns
-1[Portfolio Drawdowns](portfolio_drawdowns.png)
+![Portfolio Drawdowns](portfolio_drawdowns.png)
