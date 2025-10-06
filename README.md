@@ -65,7 +65,7 @@ Investment Base: R10,000 (or $10,000 equivalent)
 - The Min Volatility portfolio offers steadier returns with less downside risk.
 - Portfolio selection depends on investor risk preference.
 
- ### Efficient Frontier (with optimal portfolios highlighted)
+### Efficient Frontier (with optimal portfolios highlighted)
  ![Efficient Frontier](efficient_frontier.png)
 
 ### Risk vs Return
@@ -73,3 +73,6 @@ Investment Base: R10,000 (or $10,000 equivalent)
 
 ### Portfolio Drawdowns
 ![Portfolio Drawdowns](portfolio_drawdowns.png)
+
+### Correlation
+![Correlation](correlation.png)
