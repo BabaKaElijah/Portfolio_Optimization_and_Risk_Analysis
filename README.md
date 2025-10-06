@@ -60,3 +60,7 @@ Investment Base: R10,000 (or $10,000 equivalent)
 | Max Sharpe       | 21.2%           | 21.4%       | 0.946         | -44.27%       | 30.97%     | 46.77%      |
 | Min Volatility   | 14.6%           | 18.0%       | 0.810         | -36.02%       | 25.48%     | 39.21%      |
 
+### Interpretation:
+- The Max Sharpe portfolio provides higher returns but is more volatile.
+- The Min Volatility portfolio offers steadier returns with less downside risk.
+- Portfolio selection depends on investor risk preference.
