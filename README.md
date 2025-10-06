@@ -68,3 +68,5 @@ Investment Base: R10,000 (or $10,000 equivalent)
  ### Efficient Frontier (with optimal portfolios highlighted)
  ![Efficient Frontier](efficient_frontier.png)
 
+### Risk vs Return
+
