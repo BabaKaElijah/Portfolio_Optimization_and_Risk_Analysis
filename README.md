@@ -76,3 +76,11 @@ Investment Base: R10,000 (or $10,000 equivalent)
 
 ### Correlation
 ![Correlation](correlation.png)
+
+### Historical Backtesting of Portfolios
+We simulate how the portfolio would have performed in the past using actual historical stock and benchmark data. By applying the portfolio weights (Maximum Sharpe and Minimum Volatility) to daily returns from 2020–2025, we can calculate cumulative returns, volatility, and risk metrics. This allows us to:
+- Assess how the portfolio would have grown over time.
+- Compare performance against the S&P 500 benchmark.
+- Understand the potential risks and drawdowns under real market conditions.
+- Validate whether our portfolio construction methods (Markowitz optimization, CAPM) would have produced favorable outcomes historically.
+![Historical Backtesting](backtesting.png)
