@@ -84,3 +84,15 @@ We simulate how the portfolio would have performed in the past using actual hist
 - Understand the potential risks and drawdowns under real market conditions.
 - Validate whether our portfolio construction methods (Markowitz optimization, CAPM) would have produced favorable outcomes historically.
 ![Historical Backtesting](backtesting.png)
+
+## Key Insights
+- Diversification across sectors (tech, finance, energy, healthcare, consumer) reduced portfolio risk.
+- Both portfolios outperformed the S&P 500 in moderate and bull markets.
+- The Max Sharpe portfolio showed higher long-term growth potential despite greater short-term volatility.
+
+## Skills Demonstrated
+- Financial data analysis using Python
+- Portfolio optimization and performance evaluation
+- Application of Modern Portfolio Theory and CAPM
+- Backtesting and risk simulation
+- Data visualization and interpretation
