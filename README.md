@@ -51,4 +51,12 @@ Investment Base: R10,000 (or $10,000 equivalent)
 
 ### Backtesting  
 - Simulated the growth of a R10,000 investment from 2020–2025.  
-- Compared portfolio growth to the S&P 500 benchmark.  
+- Compared portfolio growth to the S&P 500 benchmark.
+
+## Results Summary  
+
+| Portfolio        | Expected Return | Volatility | Sharpe Ratio | Max Drawdown | VaR (95%) | CVaR (95%) |
+|------------------|-----------------|-------------|---------------|---------------|------------|-------------|
+| Max Sharpe       | 21.2%           | 21.4%       | 0.946         | -44.27%       | 30.97%     | 46.77%      |
+| Min Volatility   | 14.6%           | 18.0%       | 0.810         | -36.02%       | 25.48%     | 39.21%      |
+
