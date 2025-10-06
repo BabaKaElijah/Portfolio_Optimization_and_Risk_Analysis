@@ -64,3 +64,7 @@ Investment Base: R10,000 (or $10,000 equivalent)
 - The Max Sharpe portfolio provides higher returns but is more volatile.
 - The Min Volatility portfolio offers steadier returns with less downside risk.
 - Portfolio selection depends on investor risk preference.
+
+ ### Efficient Frontier (with optimal portfolios highlighted)
+ ![Efficient Frontier](efficient_frontier.png)
+
